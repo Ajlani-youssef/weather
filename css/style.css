@@ -1,0 +1,11 @@
+canvas
+{
+	border :solid 2px black;
+	width: 1300px ; 
+	height: 600px ;
+	align-self: : center ;
+}
+#lesImageAInserer
+{
+	display :none;
+}
